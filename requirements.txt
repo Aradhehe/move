@@ -1,0 +1,15 @@
+asgiref==3.7.2
+Django==4.2.7
+setuptools==68.0.0
+sqlparse==0.4.4
+wheel==0.41.2
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+ 
+[packages]
+flask = "*"
+ 
+[requires]
+python_version = "3.9"
